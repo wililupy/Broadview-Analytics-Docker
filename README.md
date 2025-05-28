@@ -31,5 +31,8 @@ To run the container there are some prerequisites:
    -v [local switchdetails dir]:/Broadview-Analytics/bin/switchdetails \
    bv-analytics-docker
   ```
-This will start the container in the background and start the Broadview Analytics Java Application.
-  
+<p>This will start the container in the background and start the Broadview Analytics Java Application.</p>
+For more details on Broadview Analytics, you can review it at: <br> 
+
+[Broadview-Analytics](https://github.com/wililupy/Broadview-Analytics "Lucas Williams's Fork of Broadview-Analytics")
+

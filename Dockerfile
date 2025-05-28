@@ -1,5 +1,5 @@
 FROM openjdk:8
-LABEL org.opencontainers.image.authors="Lucas Williams <wililupy@lucaswilliams.net>" \
+LABEL org.opencontainers.image.authors="Luke Williams <luke.williams@be-net.com>" \
       org.opencontainers.image.version="1.0.0" \
       org.opencontainers.image.description="Broadview Analytics Java Application from Broadcom running as a Container"
 

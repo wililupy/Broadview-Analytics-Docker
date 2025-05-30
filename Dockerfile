@@ -13,8 +13,7 @@ RUN mkdir -p pcap
 
 ENV DISPLAY=:0
 
-EXPOSE 8080
-EXPOSE 9070
+EXPOSE 8080 9070
 VOLUME ["/Broadview-Analytics/bin/pcap", "Broadview-Analytics/bin/switchdetails"]
 
 ENTRYPOINT ["java", "-jar", "broadview-analytics.jar"]
